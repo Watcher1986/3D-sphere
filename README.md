@@ -1,4 +1,4 @@
-# Basic ThreeJS study project.
+# Animated 3D sphere.
 
 ---
 
