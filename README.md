@@ -1,4 +1,4 @@
-# Animated 3D sphere.
+# Animated interactive able 3D sphere.
 
 ---
 
